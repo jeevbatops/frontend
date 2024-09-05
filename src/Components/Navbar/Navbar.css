@@ -37,9 +37,9 @@
 
 .nav-menu hr{
     border: none;
-    width: 80%;
-    height: 3px;
     border-radius: 10px;
+    height: 3px;
+    width: 80%;
     background: #ff4141;
 }
 
@@ -74,11 +74,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: -135px;
+    margin-top: -15px;
     margin-left: -55px;
     border-radius: 11px;
     font-size: 14px;
     background: red;
     color: white;
 }
+
+
 
